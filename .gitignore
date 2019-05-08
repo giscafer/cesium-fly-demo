@@ -1,0 +1,5 @@
+/dist/
+/node_modules/
+/app/cesiumjs.js
+/app/main.js
+package-lock.json
